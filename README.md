@@ -1,4 +1,4 @@
-#Pagina de helados o prodcutos varios
+#Pagina de helados o prodcutos varios. 
 Plantilla de pagina
 
 
