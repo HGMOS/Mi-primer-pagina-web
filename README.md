@@ -9,3 +9,8 @@ Este es mi primer diseño de una de pagina. Busqué identificar y aplicar concep
 - LinkedIn - [Hernan Gonzalez Mosquera](https://www.linkedin.com/in/hjgmos/)
 - Frontend Mentor - [@HGMOS](https://www.frontendmentor.io/profile/HGMOS)
 - Twitter - [@nacoro95](https://twitter.com/nacoro95)
+
+
+### Screenshot
+
+![](./screenshot.jpg)
